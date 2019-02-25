@@ -7,3 +7,5 @@ A sample screenshot can be found below:
 
 ![screenshot](IMG_0077.jpg)
 
+
+I believe this screenshot is from this version, but I am not entirely sure.
