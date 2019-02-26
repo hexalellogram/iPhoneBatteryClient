@@ -5,7 +5,10 @@ I've got no clue if this thing is functional or not. At one point it was, but I 
 
 A sample screenshot can be found below:
 
-![screenshot](IMG_0077.jpg)
+iPhone UI:
+![iPhone UI](IMG_0200.jpg)
 
+Apple Watch UI
+![Apple Watch UI](IMG_0201.jpg)
 
 I believe this screenshot is from this version, but I am not entirely sure.
