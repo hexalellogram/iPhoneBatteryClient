@@ -13,10 +13,10 @@ Press "Send to AW" to send this information to the Apple Watch. It will appear i
 
 ### Sample Screenshots
 
-iPhone UI:
-
-![iPhone UI](IMG_0200.jpg)
-
 Apple Watch UI:
 
 ![Apple Watch UI](IMG_0201.jpg)
+
+iPhone UI:
+
+![iPhone UI](IMG_0200.jpg)
