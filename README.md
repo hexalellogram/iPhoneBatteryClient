@@ -1,9 +1,17 @@
 # iPhoneBatteryClient
-An Apple Watch app that displays battery levels from a paired iPhone
+An Apple Watch and iPhone app that displays battery levels from a paired iPhone
 
-I've got no clue if this thing is functional or not. At one point it was, but I recently dug this out of my backups and posted it on GitHub. No clue if the version here is the version that works.
+### Apple Watch app
 
-A sample screenshot can be found below:
+Press the "Update AW % Reading" button in the Apple Watch app to fetch the latest Apple Watch battery percentage. This will update the number under the "Apple Watch %" field.
+
+### iPhone app
+
+Press "Update iPhone Battery Percentage" to fetch the latest iPhone battery percentage. It will display in the iPhone app under "iPhone Battery Level"
+
+Press "Send to AW" to send this information to the Apple Watch. It will appear in the Watch app under the "iPhone %" field.
+
+### Sample Screenshots
 
 iPhone UI:
 
@@ -12,5 +20,3 @@ iPhone UI:
 Apple Watch UI:
 
 ![Apple Watch UI](IMG_0201.jpg)
-
-I believe this screenshot is from this version, but I am not entirely sure.
